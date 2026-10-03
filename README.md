@@ -1,12 +1,12 @@
-# 比特币四年周期轮动图 | Bitcoin Four-Year Cycle Map
+# 比特币月历 | Bitcoin Monthly Calendar
 
-一张表看懂比特币的四年周期规律。
+一张表看懂比特币每个月的涨跌，以及四年周期规律。
 
 以月度涨跌幅矩阵的形式，展示 2011 年至今每个月的价格变化，并标注减半年、大牛年、回调年、小牛年的周期轮替。数据实时更新，打开即用。
 
 ## 在线访问
 
-**https://wolfyxbt.github.io/bitcoin-four-year-cycle-map/**
+**https://wolfyxbt.github.io/bitcoin-monthly-calendar/**
 
 纯静态页面，无需后端，也可部署到 Vercel、Netlify 等平台。
 
@@ -29,8 +29,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/wolfyxbt/bitcoin-four-year-cycle-map.git
-cd bitcoin-four-year-cycle-map
+git clone https://github.com/wolfyxbt/bitcoin-monthly-calendar.git
+cd bitcoin-monthly-calendar
 
 # 启动本地服务器（任选一种）
 python3 -m http.server 8080

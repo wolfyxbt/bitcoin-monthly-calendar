@@ -1,8 +1,8 @@
 const translations = {
   zh: {
-    pageTitle: "比特币四年周期轮动图",
+    pageTitle: "比特币月历",
     mainTitle: "比特币",
-    mainTitleSuffix: "四年周期轮动图",
+    mainTitleSuffix: "月历",
     priceLabel: "比特币现价",
     yearHeader: "年份",
     monthLabels: ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"],
@@ -21,9 +21,9 @@ const translations = {
     langBtn: "EN",
   },
   en: {
-    pageTitle: "Bitcoin Four-Year Cycle Map",
+    pageTitle: "Bitcoin Monthly Calendar",
     mainTitle: "Bitcoin",
-    mainTitleSuffix: "Four-Year Cycle Map",
+    mainTitleSuffix: "Monthly Calendar",
     priceLabel: "Bitcoin Price",
     yearHeader: "Year",
     monthLabels: ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"],

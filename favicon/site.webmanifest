@@ -1,6 +1,6 @@
 {
-  "name": "比特币四年周期轮动图",
-  "short_name": "BTC Cycle",
+  "name": "比特币月历",
+  "short_name": "BTC Calendar",
   "icons": [
     { "src": "/favicon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "/favicon/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
